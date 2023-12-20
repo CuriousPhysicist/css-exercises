@@ -1,0 +1,22 @@
+body {
+  font-family: Veranda, DejaVu Sans, sans-serif;
+}
+
+.odd-numbered {
+  background-color: #FF9999;
+  font-family: Veranda, DejaVu Sans, sans-serif;
+}
+
+.larger-text {
+  font-size: 24px;
+}
+
+#second-element {
+  color: #3333EE;
+  font-size: 36px;
+}
+
+#fourth-element {
+  background-color: #88FF88;
+  font-weight: bold;
+}
