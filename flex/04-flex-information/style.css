@@ -18,6 +18,10 @@ img {
   align-items: center;
 }
 
+.image-container {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
