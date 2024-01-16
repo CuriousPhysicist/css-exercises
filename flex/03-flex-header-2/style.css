@@ -40,6 +40,12 @@ body {
   font-style: italic;
 }
 
+.links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 button {
   border: none;
   border-radius: 8px;
