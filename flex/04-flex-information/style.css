@@ -20,6 +20,21 @@ img {
 
 .image-container {
   display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-grow: 0;
+  flex-basis: initial;
+}
+
+.plant-info-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.text {
+  text-align: center;
 }
 
 /* do not edit this footer */
