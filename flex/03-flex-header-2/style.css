@@ -19,6 +19,7 @@ body {
 .left-items {
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
 .right-items {
@@ -38,12 +39,14 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-left: 10px;
 }
 
 .links {
   display: flex;
   align-items: center;
   gap: 10px;
+  padding: 0;
 }
 
 button {
