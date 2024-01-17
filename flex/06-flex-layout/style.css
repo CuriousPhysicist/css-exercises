@@ -49,3 +49,13 @@ a {
   justify-content: space-between;
   padding: 15px;
 }
+
+.left-links {
+  display: flex;
+  gap: 10px;
+}
+
+.right-links {
+  display: flex;
+  gap: 10px;
+}
