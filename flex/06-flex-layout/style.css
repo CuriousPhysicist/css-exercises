@@ -41,7 +41,6 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 15px;
 }
 
 .content {
@@ -54,15 +53,16 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 15px;
 }
 
 .left-links {
   display: flex;
   gap: 10px;
+  margin-left: 10px;
 }
 
 .right-links {
   display: flex;
   gap: 10px;
+  margin-right: 10px;
 }
